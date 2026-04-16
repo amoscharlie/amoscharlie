@@ -35,6 +35,9 @@ I help businesses and organizations:
 - Manage servers and deployments
 - Handle database and performance issues
 - Troubleshoot real production problems
+
+## 🌐 Portfolio
+https://portfolio-amos-chi.vercel.app/
   
 ## 📫 Contact
 - Email: amoshutaurukk@gmail.com
