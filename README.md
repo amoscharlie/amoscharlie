@@ -24,7 +24,7 @@ I build and maintain real-world systems at Universitas Advent Indonesia, serving
 
 ## 📌 Featured Work
 
-- **Joyfull Funeral Services**: Next.js, TypeScript, and PostgreSQL website with a catalog and an admin portal, so staff update prices and content without a new deploy. [[Demo](https://joyfull-funeral-services.vercel.app/)]
+- **Joyfull Funeral Services**: Next.js, TypeScript, and PostgreSQL website with a casket and florist catalog and an admin portal, so staff update prices and content without a new deploy. Built with a CI/CD pipeline. [live link]
 - **[Trigatra](https://trigatra.id/)**: company profile website built with React + Vite
 - **[MMP (demo)](https://mmp-slicing.vercel.app/)**: Figma-to-code company profile integrated with WordPress
 - **Campus payment system**: direct bank API integration with callbacks and reconciliation (details on my portfolio)
