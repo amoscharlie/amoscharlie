@@ -1,44 +1,40 @@
 # Hi, I'm Amos 👋
 
-Full Stack Developer & System Engineer with hands-on experience building and maintaining real-world systems used by 1000+ users.
+**Full Stack Developer | Laravel, Next.js & Vue.js | Bank Payment Integration (SNAP)**
 
-## 🚀 About Me
-- 💻 Building and maintaining scalable web applications
-- 🗄️ Working with MySQL & SQL Server (queries, data management)
-- 🖥️ Managing Linux servers, Proxmox virtualization, and deployments
-- 🌐 Handling networking, infrastructure, and troubleshooting
-- ⚡ Focused on reliability, performance, and practical solutions
+I build and maintain real-world systems at Universitas Advent Indonesia, serving 1,500+ students and 150+ lecturers and staff, and take on freelance web projects on the side.
+
+## 🚀 What I Do
+
+- 💳 Sole engineer for direct **BNI, BRI, and BCA** payment integrations (Bank Indonesia SNAP), processing IDR 10-15 billion per semester
+- 🏫 Build and maintain an 18-module Laravel system covering academic, finance, library, dormitory, and cafeteria workflows
+- 🖥️ Administer 50+ production servers (Linux, Proxmox, Nginx)
+- ⚡ Cut release time from about 15-20 minutes to under 3 minutes with GitHub Actions
+- 🌐 Deliver company websites with Next.js, React, and WordPress
 
 ## 🛠 Tech Stack
-**Frontend**
-- React, JavaScript, HTML, CSS, Tailwind
 
-**Backend**
-- PHP (Laravel), REST API
+**Frontend:** Next.js, React, Vue.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
 
-**Database**
-- MySQL, SQL Server, Query Optimization
+**Backend:** PHP (Laravel), Node.js, REST API, Bank API Integration (SNAP)
 
-**Infrastructure**
-- Linux, Proxmox, Nginx, SSH, WinSCP, SSL
+**Database:** MySQL, SQL Server, PostgreSQL, Query Optimization
+
+**Infrastructure & DevOps:** Linux, Proxmox, Nginx, GitHub Actions (CI/CD), SSH, Containers
 
 ## 📌 Featured Work
-- Academic Information System (multi-module, 1000+ users)
-- Server Infrastructure & Deployment
-- Campus Network Support
-- Website & CMS Management (WordPress)
 
-## 💼 What I Do
-I help businesses and organizations:
-- Build web applications
-- Fix bugs and improve systems
-- Manage servers and deployments
-- Handle database and performance issues
-- Troubleshoot real production problems
+- **Joyfull Funeral Services**: Next.js, TypeScript, and PostgreSQL website with a catalog and an admin portal, so staff update prices and content without a new deploy. [[Demo](https://joyfull-funeral-services.vercel.app/)]
+- **[Trigatra](https://trigatra.id/)**: company profile website built with React + Vite
+- **[MMP (demo)](https://mmp-slicing.vercel.app/)**: Figma-to-code company profile integrated with WordPress
+- **Campus payment system**: direct bank API integration with callbacks and reconciliation (details on my portfolio)
 
 ## 🌐 Portfolio
+
 https://portfolio-amos-chi.vercel.app/
-  
+
 ## 📫 Contact
-- Email: amoshutaurukk@gmail.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+
+- Email: [amoshutaurukk@gmail.com](mailto:amoshutaurukk@gmail.com)
+- LinkedIn: [linkedin.com/in/amoscharlieh](https://www.linkedin.com/in/amoscharlieh/)
+- WhatsApp: [+62 822-1730-5514](https://wa.me/6282217305514)
